@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <title>Die Auflösung Jugoslawiens</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/reset.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/reveal.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/theme/black.min.css">
+</head>
+<body>
+
+<div class="reveal">
+    <div class="slides">
+        <!-- Título -->
+        <section>
+            <h1>Die Auflösung Jugoslawiens</h1>
+            <p>Ein Überblick über die Ursachen, den Verlauf und die Folgen</p>
+        </section>
+
+        <!-- Die Entstehung Jugoslawiens -->
+        <section>
+            <h2>1. Die Entstehung Jugoslawiens</h2>
+            <ul>
+                <li>1918: Gründung des Königreichs der Serben, Kroaten und Slowenen</li>
+                <li>1929: Umbenennung in Jugoslawien</li>
+                <li>Vielvölkerstaat mit Serben, Kroaten, Slowenen, Bosniern, etc.</li>
+                <li>Erste Spannungen bereits nach dem Ersten Weltkrieg</li>
+            </ul>
+        </section>
+
+        <!-- Die Zeit Titos -->
+        <section>
+            <h2>2. Die Zeit Titos</h2>
+            <ul>
+                <li>1945–1980: Josip Broz Tito als stabilisierende Kraft</li>
+                <li>„Einheit und Brüderlichkeit“ als staatliches Motto</li>
+                <li>Nach Titos Tod: Aufstieg des Nationalismus</li>
+            </ul>
+        </section>
+
+        <!-- Ursachen der Auflösung -->
+        <section>
+            <h2>3. Ursachen der Auflösung</h2>
+            <ul>
+                <li>Wirtschaftliche Krise in den 1980er Jahren</li>
+                <li>Politische Instabilität: Föderation wird ineffektiv</li>
+                <li>Nationalismus in Serbien und Kroatien</li>
+                <li>Führer wie Milošević und Tuđman verschärfen Spannungen</li>
+            </ul>
+        </section>
+
+        <!-- Die Jugoslawienkriege -->
+        <section>
+            <h2>4. Die Jugoslawienkriege</h2>
+            <ul>
+                <li>Kroatienkrieg (1991–1995)</li>
+                <li>Bosnienkrieg (1992–1995)</li>
+                <li>Kosovokrieg (1998–1999)</li>
+                <li>Ethnische Säuberungen und internationale Intervention</li>
+            </ul>
+        </section>
+
+        <!-- Folgen der Auflösung -->
+        <section>
+            <h2>5. Folgen der Auflösung</h2>
+            <ul>
+                <li>Entstehung von sieben Nachfolgestaaten</li>
+                <li>Hunderttausende Tote, Millionen Vertriebene</li>
+                <li>Zerstörung von Städten und Infrastruktur</li>
+                <li>Internationaler Strafgerichtshof (ICTY)</li>
+            </ul>
+        </section>
+
+        <!-- Fazit -->
+        <section>
+            <h2>6. Fazit</h2>
+            <p>Die Auflösung Jugoslawiens war ein komplexer Prozess, der durch ethnische Konflikte, Nationalismus und politische Instabilität geprägt wurde.</p>
+            <p>Vielen Dank für Ihre Aufmerksamkeit!</p>
+        </section>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/reveal.min.js"></script>
+<script>
+    Reveal.initialize();
+</script>
+
+</body>
+</html>
